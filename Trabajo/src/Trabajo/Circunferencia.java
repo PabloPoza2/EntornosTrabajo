@@ -1,5 +1,5 @@
-package Trabajo;
 
+package Trabajo;
 import java.util.Scanner;
 
 public class Circunferencia {
@@ -27,3 +27,4 @@ public class Circunferencia {
         return 2 * Math.PI * radio;
     }
 }
+
